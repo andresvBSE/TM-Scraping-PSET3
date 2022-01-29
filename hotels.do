@@ -1,4 +1,4 @@
-cd "/Users/gnlm/Desktop/School/MSC/DS/Term 2/TM/Assignments/PS3/scraping"
+cd "/Users/mathiasschindler/Library/Mobile Documents/com~apple~CloudDocs/BSE/~Git-repo-clones/TM-Scraping-PSET3/files"
 import delimited "hotel_df.csv", encoding(UTF-8) clear
 
 
