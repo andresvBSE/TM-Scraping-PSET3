@@ -19,8 +19,6 @@ replace day_of_week = "Sunday" if day==4 | day==11
 encode hotel, gen(hotel_cc)
 encode day_of_week, gen(day_of_week_cc)
 
-// for hotel X day FE:
-// gen hotel_day = hotel_cc*day_of_week_cc 
 
 // Some duplicates due to ads:
 sort hotel_cc day
